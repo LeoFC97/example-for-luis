@@ -1,0 +1,23 @@
+{
+  "name": "example-for-luis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoFC97/example-for-luis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoFC97/example-for-luis/issues"
+  },
+  "homepage": "https://github.com/LeoFC97/example-for-luis#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
